@@ -1,0 +1,6 @@
+id,fname,sal,sal_source,source_praority
+1,A,11000,X,1
+1,A,12000,Y,2
+2,B,14000,X,1
+2,B,13000,Y,2
+3,C,15000,Y,1

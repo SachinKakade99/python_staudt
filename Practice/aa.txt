@@ -1,0 +1,13 @@
+oid,cid,itam,price
+01,1,soap,100
+02,2,chiki,102
+03,3,wefers,120
+04,2,biskist,200
+05,4,cold drink,100
+06,3,jell,103
+07,1,oil,105
+08,2,ssdsd,300
+09,3,dsdd,120
+10,1,sdfdf,200
+11,1,dww,103
+12,4,dwed,180
